@@ -1,0 +1,15 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="Default suite" >
+
+<test name="signin" >
+
+<classes>
+<class name="testCases.TC3_AddProduct" />
+
+
+</classes> 
+
+</test>
+
+</suite>
